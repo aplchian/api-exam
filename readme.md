@@ -7,7 +7,7 @@
 
 ## example json doc
 
-``` {
+```json {
   "name": "Red Shirt",
   "description": "It's So RED!",
   "instock": true,
