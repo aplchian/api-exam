@@ -1,0 +1,19 @@
+{
+  "name": "api-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-http-error": "^1.0.0",
+    "pouchdb": "^6.0.7",
+    "ramda": "^0.22.1"
+  }
+}
