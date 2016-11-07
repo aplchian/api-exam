@@ -10,22 +10,17 @@
 
 #### Get T-Shirt By ID:
 
- ** *GET* ```/tshirt/:id``` **
+ *GET* ```/tshirt/:id```
 
-ex.  ```http://localhost:3020/tshirt/tshirt_Green_Shirt```
 
 #### List T-Shirts:
-** *GET* ```/tshirts/``` **
+*GET* ```/tshirts/```
 
 optional: ``` ?limit=5```
 
-ex.  ```http://localhost:3020/tshirts/?limit=5```
-
 
 #### Add New T-Shirt:
-** *POST* ```/tshirt/``` **
-
-ex.  ```http://localhost:3020/tshirt/```
+*POST* ```/tshirt/```
 
 *json example*
 ```
