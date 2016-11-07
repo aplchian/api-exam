@@ -1,5 +1,5 @@
 const PouchDB = require('pouchdb')
-const db = new PouchDB('http://test:test@localhost:5984/api-test-aplchian1/')
+const db = new PouchDB('http://test:test@localhost:5984/api-test-aplchian/')
 const {
     prop,
     forEach
