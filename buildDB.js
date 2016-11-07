@@ -1,5 +1,5 @@
 const PouchDB = require('pouchdb')
-const db = new PouchDB('http://test:test@localhost:5984/api-test-aplchian/')
+const db = new PouchDB('http://localhost:5984/api-test-aplchian/')
 const {addItem} = require('./server/DAL/no-sql.js')
 const {forEach} = require('ramda')
 
