@@ -1,6 +1,18 @@
 # API Exam
 
 ##setup
-1.
  ```npm install```
-2. run ``` node buildDB.js ```
+ run ``` node buildDB.js ```
+
+
+## example json doc
+
+``` {
+  "name": "Red Shirt",
+  "description": "It's So RED!",
+  "instock": true,
+  "dateavailable": ""2012-01-01T05:00:00.000Z"",
+  "retailcost": 2.99,
+  "type": "tshirt",
+  "color": "red"
+} ```
